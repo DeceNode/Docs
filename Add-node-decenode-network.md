@@ -5,5 +5,7 @@ link: https://github.com/Akilan1999/p2p-rendering-computation#installation-from-
 
 - Run the following command 
 ```
-p2prc --as <link of decenode root server>
+p2prc -s &
+p2prc -us 
+p2prc --as 64.227.168.102
 ```
