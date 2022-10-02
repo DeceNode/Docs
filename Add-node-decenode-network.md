@@ -8,4 +8,5 @@ link: https://github.com/Akilan1999/p2p-rendering-computation#installation-from-
 p2prc -s &
 p2prc -us 
 p2prc --as 64.227.168.102
+p2prc -us
 ```
